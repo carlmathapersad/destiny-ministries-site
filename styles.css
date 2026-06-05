@@ -101,9 +101,9 @@ button {
   width: 90px;
   height: 90px;
   object-fit: contain;
-  border-radius: 50%;
+  border-radius: 16%;
   background: var(--white);
-  padding: 6px;
+  padding: 10px;
   box-shadow: var(--shadow-soft);
   border: 1px solid rgba(216, 194, 138, 0.35);
 }
