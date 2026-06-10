@@ -28,8 +28,8 @@ body {
   font-family: "Source Sans 3", Arial, sans-serif;
   color: var(--text);
   background: linear-gradient(to bottom, var(--ivory), var(--blue-mist));
-  line-height: 2.00;
-  font-size: 1.50rem;
+  line-height: 1.85;
+  font-size: 1.25rem;
 }
 
 img {
@@ -291,6 +291,7 @@ h4 {
   color: var(--heading);
   font-weight: 600;
   letter-spacing: 0.01em;
+  font-size: 2.0rem;
 }
 
 .section-heading h3,
